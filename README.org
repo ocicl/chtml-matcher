@@ -1,0 +1,10 @@
+* chtml-matcher
+
+A Common Lisp unification-style pattern matching DSL for extracting content blocks from HTML documents
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eslick/chtml-matcher.git   |
+| commit  | 8e743f5  |
+| systems | chtml-matcher |
+|---------+-------------------------------------------|
+
